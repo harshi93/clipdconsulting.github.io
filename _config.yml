@@ -1,13 +1,13 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "CloudCraft Chronicles: A DevOps Odyssey"
+author: "Harshit Singh"
+description: "Welcome to CloudCraft Chronicles, where I, an AWS Certified Solutions Architect and Terraform Certified Associate, share my insights, experiences, and journey in the realm of DevOps. Join me as I navigate through the ever-evolving landscape of cloud computing, infrastructure automation, and best practices. From tackling complex architectural challenges to demystifying the latest AWS services and Terraform techniques, this blog is your compass in the world of digital transformation. Let's embark on this adventure together and craft our cloud solutions with precision and innovation" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+email: "harshit[@]clipdconsulting.us"
+#twitter_username: "twitteruser"
+#github_username: "githubuser"
+#linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
